@@ -9,9 +9,8 @@ Un blog increible para el curso de Git y Github de platzi.
 Hyperblog 
 Un blog increible para el curso de Git y Github de platzi.
 
-El curso de Git y Github de Plaz
 
-En este curso viene una ruta completa de aprendizaje
-Desarrollo movil
-Backend
-Fronted
+En este curso viene una ruta completa de aprendizaje:
+* Desarrollo movil
+* Backend
+* Fronted
