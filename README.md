@@ -14,3 +14,7 @@ En este curso viene una ruta completa de aprendizaje:
 * Desarrollo movil
 * Backend
 * Fronted
+* Fronted
+* Git/Gitlab
+* Terminal de comandos 
+* Kotlin y Java 
