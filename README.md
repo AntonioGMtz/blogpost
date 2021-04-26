@@ -16,3 +16,4 @@ En este curso viene una ruta completa de aprendizaje:
 * Fronted
 * Git/Gitlab
 * Terminal de comandos 
+* Kotlin y Java 
